@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Risk Predictor (Advanced Version)
+# ❤️ Heart Disease Risk Predictor 
 
 A multi-tab machine learning web app that estimates the **likelihood of heart disease** from medical details, explains **why** the model gave that result, lets users try **what-if scenarios**, and exports a **PDF report**.
 
